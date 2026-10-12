@@ -1,23 +1,22 @@
-# Hotel Bookings Analysis | Python
+# Titanic Data Analysis | Python
 
 ## Project Overview
-This project explores hotel booking data using Python to analyze reservation patterns, cancellations, and booking trends.
+This project analyzes Titanic passenger data using Python to explore survival patterns and passenger characteristics.
 
 ## Tools and Skills
 - Python
 - Jupyter Notebook
 - Pandas – data cleaning and analysis
-- Matplotlib – data visualization
+- Matplotlib and Seaborn – data visualization
 - Exploratory Data Analysis (EDA)
 
 ## Project Objectives
-- Explore hotel booking patterns
-- Analyze reservation cancellations
-- Identify trends in booking data
-- Present findings through data visualizations
+- Explore Titanic passenger data
+- Analyze passenger survival patterns
+- Identify trends through data visualizations
 
 ## Project File
 [View Python Jupyter Notebook](Project_Final_Python.ipynb)
 
 ## Purpose
-This portfolio project demonstrates my practical skills in Python, data exploration, data analysis, and visualization.
+This project demonstrates practical skills in Python, data analysis, and visualization.
